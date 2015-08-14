@@ -34,9 +34,8 @@
   "homepage": "https://github.com/scottbrady/dustjs-browserify",
   "dependencies": {
     "bluebird": "~2.9.30",
-    "dustjs-helpers": "^1.7.3",
     "dustjs-linkedin": "^2.7.2",
-    "dustjs-loader": "~1.1.0",
+    "dustjs-loader": "git+https://github.com/kreegr/dustjs-loader.git",
     "through": "~2.3.6"
   }
 }
