@@ -36,6 +36,7 @@
     "bluebird": "~2.9.30",
     "dustjs-linkedin": "^2.7.2",
     "dustjs-loader": "git+https://github.com/kreegr/dustjs-loader.git",
-    "through": "~2.3.6"
+    "through": "~2.3.6",
+    "upath": "0.1.7"
   }
 }
